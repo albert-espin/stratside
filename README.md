@@ -27,6 +27,12 @@ Check out the "PressReleases" folder of this repository to find press releases f
 
 These are some images of the game, but you can find more in the press releases:
 
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/6.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/16.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/2.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/10.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/13.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/14.png)
 
 
 ## Other Information
