@@ -25,7 +25,7 @@ Check out the "PressReleases" folder of this repository to find press releases f
 
 ## Image Gallery
 
-These are some images of the game, but you can find more in the press releases:
+These are some images of the game (but you can find more in the press releases):
 
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/6.png)
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/16.png)
@@ -37,7 +37,7 @@ These are some images of the game, but you can find more in the press releases:
 
 ## Other Information
 
-Stratside is a game developed by Albert Espín. All rights reserved. However, feel free to share the images and links of the game if you want, but please mention that related to Stratside, and do not make modifications which may damage quality.
+Stratside is a game developed by Albert Espín. All rights reserved. However, feel free to share the images and links of the game if you want, but please mention that they are related to Stratside, and do not make modifications which may damage quality.
 
 
 
