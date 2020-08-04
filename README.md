@@ -15,25 +15,32 @@ The game includes more than 100 levels, with an expected playtime  greater than 
 
 [Check out the Steam page here! You can get the game if you like it!](https://store.steampowered.com/app/604990/Stratside/)
 
+
 ## Gameplay Trailer
 
 [Check out the Launch Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
+
 [Check out the Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=XRAxAK_yOGk)
 
-## Press Releases
-
-Check out the "PressReleases" folder of this repository to find press releases for the game, with press kits (which include images).
 
 ## Image Gallery
 
-These are some images of the game (but you can find more in the press releases):
+These are some images of the game (but you can find more in the Steam page):
 
-![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/6.png)
+![](new_images/new1.png)
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/16.png)
+![](new_images/new3.png)
+![](new_images/new2.png)
+![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/6.png)
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/2.png)
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/10.png)
-![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/13.png)
 ![](PressReleases/Announcement-Feb2020/images/in-game/png-high-quality/14.png)
+![](new_images/new4.png)
+![](new_images/new5.png)
+![](new_images/new6.png)
+![](new_images/new7.png)
+![](new_images/new8.png)
+![](new_images/new9.png)
 
 
 ## Other Information
