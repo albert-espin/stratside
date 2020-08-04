@@ -16,9 +16,9 @@ The game includes more than 100 levels, with an expected playtime  greater than 
 [Check out the Steam page here! You can get the game if you like it!](https://store.steampowered.com/app/604990/Stratside/)
 
 
-## Gameplay Trailer
+## Video Gallery
 
-[Check out the Launch Gameplay Trailer here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
+[Check out the Launch Trailer here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
 
 [Check out the Gameplay Trailer here!](https://www.youtube.com/watch?v=XRAxAK_yOGk)
 
