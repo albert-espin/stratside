@@ -18,9 +18,9 @@ The game includes more than 100 levels, with an expected playtime  greater than 
 
 ## Gameplay Trailer
 
-[Check out the Launch Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
+[Check out the Launch Gameplay Trailer here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
 
-[Check out the Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=XRAxAK_yOGk)
+[Check out the Gameplay Trailer here!](https://www.youtube.com/watch?v=XRAxAK_yOGk)
 
 
 ## Image Gallery
