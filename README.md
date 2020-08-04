@@ -1,4 +1,4 @@
-# Stratside, the Puzzle Defense Game where you Save Planets from a Side-Scrolling Gravity-Changing Enemy, is Coming to Steam on 2020!
+# Stratside, the Puzzle Defense Game where you Save Planets from a Side-Scrolling Gravity-Changing Enemy!
 
 ## Forget the Hordes of Dummy Enemies of Traditional Tower Defense Games, and Get Ready to Challenge a Single Enemy Mastermind – Better Quality than Quantity!
 
@@ -13,11 +13,12 @@ The game includes more than 100 levels, with an expected playtime  greater than 
 
 ## Steam Page
 
-[Check out the Steam page here! You can wishlist the game if you like it!](https://store.steampowered.com/app/604990/Stratside/)
+[Check out the Steam page here! You can get the game if you like it!](https://store.steampowered.com/app/604990/Stratside/)
 
 ## Gameplay Trailer
 
-[Check out the Announcement Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=0owdmmGytRY)
+[Check out the Launch Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=nSwHXmbfuuE)
+[Check out the Gameplay Trailer in Youtube here!](https://www.youtube.com/watch?v=XRAxAK_yOGk)
 
 ## Press Releases
 
@@ -37,7 +38,7 @@ These are some images of the game (but you can find more in the press releases):
 
 ## Other Information
 
-Stratside is a game developed by Albert Espín. All rights reserved. However, feel free to share the images and links of the game if you want, but please mention that they are related to Stratside, and do not make modifications which may damage quality.
+Stratside is a game developed by Albert Espín. All rights reserved. However, feel free to share the images, videos and links of the game if you want, but please mention that they are from Stratside (with a link to the Steam page or this GitHub repository), and do not share modified versions if have lesser quality.
 
 
 
